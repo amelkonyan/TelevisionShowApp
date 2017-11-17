@@ -1,0 +1,9 @@
+C:\Users\Local User\Desktop\PCS2 Assignments\ExtraAssignment\TelevisionShowGame\bin\Debug\TelevisionShowGame.exe.config
+C:\Users\Local User\Desktop\PCS2 Assignments\ExtraAssignment\TelevisionShowGame\bin\Debug\TelevisionShowGame.exe
+C:\Users\Local User\Desktop\PCS2 Assignments\ExtraAssignment\TelevisionShowGame\bin\Debug\TelevisionShowGame.pdb
+C:\Users\Local User\Desktop\PCS2 Assignments\ExtraAssignment\TelevisionShowGame\obj\Debug\TelevisionShowGame.csprojResolveAssemblyReference.cache
+C:\Users\Local User\Desktop\PCS2 Assignments\ExtraAssignment\TelevisionShowGame\obj\Debug\TelevisionShowGame.Form1.resources
+C:\Users\Local User\Desktop\PCS2 Assignments\ExtraAssignment\TelevisionShowGame\obj\Debug\TelevisionShowGame.Properties.Resources.resources
+C:\Users\Local User\Desktop\PCS2 Assignments\ExtraAssignment\TelevisionShowGame\obj\Debug\TelevisionShowGame.csproj.GenerateResource.Cache
+C:\Users\Local User\Desktop\PCS2 Assignments\ExtraAssignment\TelevisionShowGame\obj\Debug\TelevisionShowGame.exe
+C:\Users\Local User\Desktop\PCS2 Assignments\ExtraAssignment\TelevisionShowGame\obj\Debug\TelevisionShowGame.pdb
